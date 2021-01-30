@@ -2,7 +2,7 @@
 
 I am Dmitriy (zsaz). I am 15 years old. I am Python/Swift/Dart developer. 
 
-🔭 I’m currently working on Learn English (https://apps.apple.com/us/app/английский-язык-учим-c-нуля/id1479425872) and ReshuCDS (https://t.me/CDSansbot)
+🔭 I’m currently working on Learn English (https://apps.apple.com/us/app/английский-язык-учим-c-нуля/id1479425872) and ReshuCDS (https://t.me/CDSansbot)</br>
 🌱 I’m currently learning Flutter.
 
 

@@ -25,4 +25,4 @@ my name is **Dmitriy** and I'm a **software developer**. I'm from cold Russia, m
   - [![](https://img.shields.io/badge/Deezer_downloader_%28DMCA%29-informational?style=flat-square&logo=deezer&logoColor=white&color=cc000b)](https://github.com/superdima05/deezer-grabber-server)
 
 ## 📈 Stats
-![](https://komarev.com/ghpvc/?username=superdima05&style=flat-square&color=cc000b)
+[![Hits](https://hits.sh/github.com/superdima05.svg?style=flat-square&label=views&color=cc000b&logo=git)](https://hits.sh/github.com/superdima05/)

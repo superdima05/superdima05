@@ -5,15 +5,14 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![I use Arch BTW](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
-[![zsaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=superdima05)](https://github.com/anuraghazra/github-readme-stats)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superdima05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![zsaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=superdima05&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## coffee?: 
  - **USDT (TRC20)**: TRVmasDESoxuRVk7hemueuWfd4YF3211Ws
  - **BTC**: 1FCPy9iUHUNP392PvwFSR4BVqyEejdNTmS
 
 
-# My projects:
+## My projects:
   - [МЭШ](https://github.com/superdima05/mesh)
   - [openSchool](https://github.com/opensch)
   - [shareWatch](https://github.com/superdima05/shareWatch)

@@ -14,7 +14,7 @@ my name is **Dmitriy** and I'm a **software developer**. I'm from cold Russia, m
 ![](https://img.shields.io/badge/Cloud-Vultr-informational?style=flat-square&logo=vultr&logoColor=white&color=cc000b) 
 
 
-## projects:
+## 💻 projects:
   - [![](https://img.shields.io/badge/МЭШ-informational?style=flat-square&logo=bookstack&logoColor=white&color=cc000b)](https://github.com/superdima05/mesh)
   - [![](https://img.shields.io/badge/openSchool-informational?style=flat-square&logo=&logoColor=white&color=cc000b)](https://github.com/opensch)
   - [![](https://img.shields.io/badge/shareWatch-informational?style=flat-square&logo=youtube&logoColor=white&color=cc000b)](https://github.com/superdima05/shareWatch)

@@ -13,8 +13,6 @@ my name is **Dmitriy** and I'm a **software developer**. I'm from cold Russia, m
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat-square&logo=digitalocean&logoColor=white&color=cc000b) 
 ![](https://img.shields.io/badge/Cloud-Vultr-informational?style=flat-square&logo=vultr&logoColor=white&color=cc000b) 
 
-<a href='#' onclick='window.location.href = "http://stackoverflow.com";'>test</a>
-
 ## ☕ coffee?: 
  - **USDT (TRC20)**: TRVmasDESoxuRVk7hemueuWfd4YF3211Ws
  - **BTC**: 1FCPy9iUHUNP392PvwFSR4BVqyEejdNTmS

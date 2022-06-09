@@ -22,8 +22,11 @@ my name is **Dmitriy** and I'm a **software developer**. I'm from cold Russia, m
   - [![](https://img.shields.io/badge/Deezer_downloader_%28DMCA%29-informational?style=flat-square&logo=deezer&logoColor=white&color=cc000b)](https://github.com/superdima05/deezer-grabber-server)
 
 ## ☕ coffee?: 
- - **USDT (TRC20)**: TRVmasDESoxuRVk7hemueuWfd4YF3211Ws
- - **BTC**: 1FCPy9iUHUNP392PvwFSR4BVqyEejdNTmS
+- **USDT (TRC20)**: TRVmasDESoxuRVk7hemueuWfd4YF3211Ws
+- **USDT (BEP20)**: 0x35d579eA03cf8C4342aD91d7CB04a44D191Bd8C3
+- **BTC**: 3NUNFc2nw1LVwV4HVPNKtyhym3ev1khtKv
+- **LTC**: LLUdJw4Y3pA8evYDzcxf5ofLYHb5ZrLVxp
+- **TRX**: TRVmasDESoxuRVk7hemueuWfd4YF3211Ws
 
 ## 📈 Stats
 [![Hits](https://hits.sh/github.com/superdima05.svg?style=flat-square&label=views&color=cc000b&logo=git)](https://hits.sh/github.com/superdima05/)

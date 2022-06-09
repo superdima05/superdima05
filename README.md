@@ -27,6 +27,7 @@ my name is **Dmitriy** and I'm a **software developer**. I'm from cold Russia, m
 - **BTC**: 3NUNFc2nw1LVwV4HVPNKtyhym3ev1khtKv
 - **LTC**: LLUdJw4Y3pA8evYDzcxf5ofLYHb5ZrLVxp
 - **TRX**: TRVmasDESoxuRVk7hemueuWfd4YF3211Ws
+- **DOGE**: DJ7nNSQpqtjvedwpi8rQHcvoBqGtdReLFm
 
 ## 📈 Stats
 [![Hits](https://hits.sh/github.com/superdima05.svg?style=flat-square&label=views&color=cc000b&logo=git)](https://hits.sh/github.com/superdima05/)

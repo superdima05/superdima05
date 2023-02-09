@@ -1,5 +1,5 @@
 # hi! 👋
-my name is **Dmitriy** and I'm a **software developer**. I'm from cold Russia, my best friends are bears, of course, i play balalaika and drink a lot of vodka :)
+my name is **Dmitriy** and I'm a **software developer**. I've moved from cold Russia to sunny Cyprus, left my best friend bear, and stopped playing balalaika and drinking a lot of vodka every day.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=archlinux&logoColor=white&color=cc000b)

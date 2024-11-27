@@ -11,8 +11,6 @@ my name is **Dmitriy** and I'm a **software developer**. I've moved from cold Ru
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=cc000b)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=cc000b)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat-square&logo=digitalocean&logoColor=white&color=cc000b) 
-![](https://img.shields.io/badge/Cloud-Vultr-informational?style=flat-square&logo=vultr&logoColor=white&color=cc000b) 
-
 
 ## 💻 projects:
   - [![](https://img.shields.io/badge/МЭШ-informational?style=flat-square&logo=bookstack&logoColor=white&color=cc000b)](https://github.com/superdima05/mesh)
@@ -20,15 +18,6 @@ my name is **Dmitriy** and I'm a **software developer**. I've moved from cold Ru
   - [![](https://img.shields.io/badge/shareWatch-informational?style=flat-square&logo=youtube&logoColor=white&color=cc000b)](https://github.com/superdima05/shareWatch)
   - [![](https://img.shields.io/badge/Learn_English-informational?style=flat-square&logo=appstore&logoColor=white&color=cc000b)](https://apps.apple.com/us/app/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D1%8F%D0%B7%D1%8B%D0%BA-%D1%83%D1%87%D0%B8%D0%BC-c-%D0%BD%D1%83%D0%BB%D1%8F/id1479425872)
   - [![](https://img.shields.io/badge/Deezer_downloader_%28DMCA%29-informational?style=flat-square&logo=deezer&logoColor=white&color=cc000b)](https://github.com/superdima05/deezer-grabber-server)
-
-## ☕ coffee?: 
-- **USDT (TRC20)**: TRVmasDESoxuRVk7hemueuWfd4YF3211Ws
-- **USDT (BEP20)**: 0x35d579eA03cf8C4342aD91d7CB04a44D191Bd8C3
-- **BTC**: 3NUNFc2nw1LVwV4HVPNKtyhym3ev1khtKv
-- **LTC**: LLUdJw4Y3pA8evYDzcxf5ofLYHb5ZrLVxp
-- **TRX**: TRVmasDESoxuRVk7hemueuWfd4YF3211Ws
-- **DOGE**: DJ7nNSQpqtjvedwpi8rQHcvoBqGtdReLFm
-- [Debit/Credit card](https://www.buymeacoffee.com/zsaz)
-
+  - 
 ## 📈 Stats
 [![Hits](https://hits.sh/github.com/superdima05.svg?style=flat-square&label=views&color=cc000b&logo=git)](https://hits.sh/github.com/superdima05/)

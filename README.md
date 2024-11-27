@@ -18,6 +18,5 @@ my name is **Dmitriy** and I'm a **software developer**. I've moved from cold Ru
   - [![](https://img.shields.io/badge/shareWatch-informational?style=flat-square&logo=youtube&logoColor=white&color=cc000b)](https://github.com/superdima05/shareWatch)
   - [![](https://img.shields.io/badge/Learn_English-informational?style=flat-square&logo=appstore&logoColor=white&color=cc000b)](https://apps.apple.com/us/app/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D1%8F%D0%B7%D1%8B%D0%BA-%D1%83%D1%87%D0%B8%D0%BC-c-%D0%BD%D1%83%D0%BB%D1%8F/id1479425872)
   - [![](https://img.shields.io/badge/Deezer_downloader_%28DMCA%29-informational?style=flat-square&logo=deezer&logoColor=white&color=cc000b)](https://github.com/superdima05/deezer-grabber-server)
-  - 
 ## 📈 Stats
 [![Hits](https://hits.sh/github.com/superdima05.svg?style=flat-square&label=views&color=cc000b&logo=git)](https://hits.sh/github.com/superdima05/)
